@@ -1,0 +1,9 @@
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\bin\Debug\Async Await.exe.config
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\bin\Debug\Async Await.exe
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\bin\Debug\Async Await.pdb
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async Await.csprojResolveAssemblyReference.cache
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async_Await.Form1.resources
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async_Await.Properties.Resources.resources
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async Await.csproj.GenerateResource.Cache
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async Await.exe
+c:\users\bashkamen\documents\visual studio 2017\Projects\Async Await\Async Await\obj\Debug\Async Await.pdb
